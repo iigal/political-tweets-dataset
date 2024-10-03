@@ -2,7 +2,6 @@
 The dataset of the twitter accounts of politically inclined people of Nepal
 
 # To use this dataset in your research article use the following bib
-
 <code>
 @artical{s13102024ijcatr13101005,
 Title = "Comparing Political Inclination Classification on Twitter Posts using Naive Bayes, SVM, and XGBoost",
